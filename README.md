@@ -55,4 +55,4 @@ This repository contains a simple Android application that demonstrates key skil
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/karim-h-mostafa/MedicineApp
